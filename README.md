@@ -1,4 +1,4 @@
-# Analaysis_of_Airbnb_NYC
+# Analysis_of_Airbnb_NYC
 Intro to Data Science Final Project - Analysis of Airbnb in New York City
 
 The dataset for this project was obtained from Kaggle New York City Airbnb Open Data (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data). The dataset is a collection of information on Airbnb listings in New York City during the year 2019. It has 48,895 observations with 16 variables and is a mix of categorical and numeric values.
